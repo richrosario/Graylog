@@ -7,7 +7,7 @@
 Graylog is an open-source log management platform that is widely used for collecting, storing, and analyzing large volumes of log data from various sources. It provides a powerful and flexible way to monitor and troubleshoot IT infrastructure, applications, and security environments by centralizing log data and enabling real-time analysis.
 
 <p align="center">
-<img src="./architec_small_setup?raw=true">
+<img src="./archimage.png?raw=true">
 </p>
 
 ##
